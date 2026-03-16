@@ -48,7 +48,6 @@ Le projet pourra être soutenu via :
 
 - dons
 - subventions
-- contributions futures
 
 ## 📄 Licence
 
