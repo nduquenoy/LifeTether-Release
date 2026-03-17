@@ -2,7 +2,9 @@
 
 Repository officiel de distribution de **LifeTether**.
 
-Ce dépôt contient uniquement les **versions compilées** de l'application.  
+Ce dépôt contient uniquement les **versions compilées** de l'application.     
+
+[Télécharger la dernière version](https://github.com/nduquenoy/LifeTether-Release/releases/latest)
 
 ## 📱 À propos de LifeTether
 
